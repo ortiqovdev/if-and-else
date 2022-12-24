@@ -109,3 +109,24 @@
 // }
 
 // if10
+// let a=10
+// let b=130
+// if (a==b){
+//     console.log(0);
+// }else{
+//     console.log(a+b);
+// }
+
+// if11
+// let a=10
+// let b=10
+// if(a==b){
+//     console.log(0);
+// }else if(a>b){
+//     console.log(a);
+// }else{
+//     console.log(b);
+// }
+
+// if12
+let a
