@@ -129,4 +129,70 @@
 // }
 
 // if12
-let a
+// let a = 1
+// let b = 10
+// let c = 100
+// if (a < b && a < c) {
+//     console.log(a);
+// }
+// else if (b < a && b < c) {
+//     console.log(b);
+// } else if (c < b && c < a) {
+//     console.log(c);
+// }
+
+// if13
+// let a = 15
+// let b = 12
+// let c = 101
+// if (b < a && a < c || b > a && a < c) {
+//     console.log(a);
+// } else if (a < b && b < c || a > b && b > c) {
+//     console.log(b);
+// } else if (b < c && c < a || b < c && c < a) {
+//     console.log(c);
+// }
+
+// if14
+// let a = 10;
+// let b = 15;
+// let c = 17;
+// if((a < b && b < c) || (a > b && b > c)){
+//    console.log(a, c);
+// }else if((b < a && a < c) || (b > a && a > c)){
+//    console.log(b, c);
+// }else if((a > c && c > b) || (b > c && c > a)) {
+//    console.log(a, b);
+// }
+
+// if15
+// let a = 10;
+// let b = 15;
+// let c = 20;
+// if (a < b && a < c) {
+//     console.log(b, c, b + c);
+// } else if (b < a && b < c) {
+//     console.log(a, c, a + c);
+// } else if (c < a && c < b) {
+//     console.log(a, b, a + b);
+// }
+
+// if16
+// let a=10
+// let b=15
+// let c=20
+// if (a<b && b<c){
+//     console.log(a*2 , b*2 , c*2);
+// }else{
+//     console.log(-a , -b , -c);
+// }
+
+// if17
+// let a=20
+// let b=25
+// let c=10
+// if (a<b && b<c || a>b && b>c){
+//     console.log(a*2 , b*2 , c*2);
+// }else{
+//     console.log(-a , -b , -c);
+// }
